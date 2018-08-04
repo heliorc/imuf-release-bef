@@ -7,7 +7,7 @@ The hexes are aggregates of the firmware plus any updates to our IMUF code. They
 The source for the Betaflight binary within the aggregate are from here:
 
 https://github.com/ButterFlight/butterflight/tree/betafight_helio_target
-
+https://github.com/ButterFlight/butterflight/tree/bef_3.4.x_helio_target
 https://github.com/ButterFlight/butterflight/tree/bef_3.3.x_helio_target
 
 
